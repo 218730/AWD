@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>resultWindow</class>
+ <widget class="QWidget" name="resultWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>188</width>
+    <height>129</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>188</width>
+    <height>129</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>188</width>
+    <height>129</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Wyniki</string>
+  </property>
+  <property name="accessibleDescription">
+   <string/>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>171</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
